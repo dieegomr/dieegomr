@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diego</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dieegomr&label=Profile%20views&color=0e75b6&style=flat" alt="dieegomr" /> </p>
 
-<p> I am an Electrical Engineer currently focused on a career transition to software development. I recently finished the Bootcamp Spread Fullstack Developer where it was possible to learn a little more about HTML, CSS, JavaScript, ReactJS, MySQL and NodeJS. After this bootcamp I realized the need and importance of mastering the JavaScript language and I am currently taking a course focused on this language. </p>
+<p> I am an Electrical Engineer currently focused on a career transition to software development. I recently finished the Bootcamp Spread Fullstack Developer where it was possible to learn a little more about HTML, CSS, JavaScript, ReactJS, MySQL and NodeJS. After this bootcamp I realized the need and importance of mastering the JavaScript language and I am currently taking the course <a href="https://www.udemy.com/course/the-complete-javascript-course/?utm_source=adwords&utm_medium=udemyads&utm_campaign=WebDevelopment_v.PROF_la.EN_cc.BR_ti.8322&utm_content=deal4584&utm_term=_._ag_108455848694_._ad_467154447027_._kw__._de_c_._dm__._pl__._ti_dsa-774930035449_._li_1031586_._pd__._&matchtype=&gclid=CjwKCAjw14uVBhBEEiwAaufYx9TbRKLGzNDmGQA8PAaGk99qGom4VgQpkeWedZuxHN_Cs1e6m0LX0BoCUJQQAvD_BwE">"The complete JavaScript Course 2022: From Zero to Expert"</a> focused on this language. </p>
 
 - 🌱 I’m currently learning: **JavaScript**
 
