@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Diego</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dieegomr&label=Profile%20views&color=0e75b6&style=flat" alt="dieegomr" /> </p>
 
-<p> I am a Electrical Engineer currently focused on a career transition to software development. I recently finished the Bootcamp Spread Fullstack Developer where it was possible to learn a little more about HTML, CSS, JavaScript, ReactJS, MySQL and NodeJS. After this bootcamp I realized the need and importance of mastering the JavaScript language and I am currently taking a course focused on this language. </p>
+<p> I am an Electrical Engineer currently focused on a career transition to software development. I recently finished the Bootcamp Spread Fullstack Developer where it was possible to learn a little more about HTML, CSS, JavaScript, ReactJS, MySQL and NodeJS. After this bootcamp I realized the need and importance of mastering the JavaScript language and I am currently taking a course focused on this language. </p>
 
 - 🌱 I’m currently learning: **JavaScript**
 
