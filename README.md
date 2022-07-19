@@ -11,7 +11,7 @@
 <li><a href="https://dieegomr.github.io/the-pig-game/">A simple multiplayer game</a></li>
 </ul>
 
-Now that I have a solid foundation, I'm going to focus on building my own JavaScript project and at the same time deepening my knowledge of ReactJS.
+Now that I have a solid foundation, I'm going to focus on training javascript through challenges and at the same time deepening my knowledge of ReactJS.
 
 
 - 🌱 I’m currently learning: **ReactJS**
