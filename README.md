@@ -1,17 +1,15 @@
 <h1 align="center">Hi 👋, I'm Diego</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dieegomr&label=Profile%20views&color=0e75b6&style=flat" alt="dieegomr" /> </p>
 
-<p> I am an Electrical Engineer currently focused on a career transition to software development. I recently finished the Bootcamp Spread Fullstack Developer where it was possible to learn a little more about HTML, CSS, JavaScript, ReactJS, MySQL and NodeJS. After this bootcamp I realized the need and importance of mastering the JavaScript language and I took <a href="https://www.udemy.com/course/the-complete-javascript-course/?utm_source=adwords&utm_medium=udemyads&utm_campaign=WebDevelopment_v.PROF_la.EN_cc.BR_ti.8322&utm_content=deal4584&utm_term=_._ag_108455848694_._ad_467154447027_._kw__._de_c_._dm__._pl__._ti_dsa-774930035449_._li_1031586_._pd__._&matchtype=&gclid=CjwKCAjw14uVBhBEEiwAaufYx9TbRKLGzNDmGQA8PAaGk99qGom4VgQpkeWedZuxHN_Cs1e6m0LX0BoCUJQQAvD_BwE">"The complete JavaScript Course 2022: From Zero to Expert"</a> where it was possible to build the following projects to practice.</p>
+<p> Web developer with knowledge in JavaScript, React, Redux, HTML, CSS and NodeJs technologies.
 
-<ul>
-<li><a href="https://forkfy-recipe-diego.netlify.app/">An app to search and upload recipes</a></li>
-<li><a href="https://dieegomr.github.io/mapty-app/">An app with geolocation where the user can log their workouts</a></li>
-<li><a href="https://dieegomr.github.io/bankist-website/">Website page for a fictional bank</a></li>
-<li><a href="https://dieegomr.github.io/Gess-my-number-game/">A game where the user needs to guess a secret number</a></li>
-<li><a href="https://dieegomr.github.io/the-pig-game/">A simple multiplayer game</a></li>
-</ul>
+Focused on continuous learning about good programming practices, clean code and agile methodologies and having as a consequence to grow professionally and add value to the business by solving problems.
 
-Now that I have a solid foundation, I'm going to focus on training javascript through challenges and at the same time deepening my knowledge of ReactJS.
+Communication, organization and teamwork are some of the characteristics that summarize a professional open to change, with more than 10 years of professional experience working with industrial process automation in Brazil and abroad.
+
+I have a degree in Electrical Engineering, I have advanced English and I am currently transitioning to the software development area in search of new challenges.</p>
+
+I have a solid foundation in JavaScript and I'm focusing on keep training javascript through challenges and at the same time deepening my knowledge of ReactJS.
 
 
 - 🌱 I’m currently learning: **ReactJS**
