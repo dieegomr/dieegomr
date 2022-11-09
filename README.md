@@ -1,16 +1,13 @@
 <h1 align="center">Hi 👋, I'm Diego</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dieegomr&label=Profile%20views&color=0e75b6&style=flat" alt="dieegomr" /> </p>
 
-<p> Web developer with knowledge in JavaScript, Java, React, Redux, Angular, TypeScript, HTML, CSS e NodeJs.
+<p> Web developer with knowledge in JavaScript, Java, React, Redux, Angular, TypeScript, HTML, CSS, MySQL e NodeJs.
 
 Focused on continuous learning about good programming practices, clean code and agile methodologies and having as a consequence to grow professionally and add value to the business by solving problems.
 
 Communication, organization and teamwork are some of the characteristics that summarize a professional open to change, with more than 10 years of professional experience working with industrial process automation in Brazil and abroad.
 
 I have a degree in Electrical Engineering, I have advanced English and I am currently transitioning to the software development area in search of new challenges.</p>
-
-I have a solid foundation in JavaScript and I'm focusing on keep training javascript through challenges and at the same time deepening my knowledge of ReactJS.
-
 
 - 🌱 I’m currently learning: **Java**
 
