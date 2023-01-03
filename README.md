@@ -9,7 +9,7 @@ Communication, organization and teamwork are some of the characteristics that su
 
 I have a degree in Electrical Engineering, I have advanced English and I am currently transitioning to the software development area in search of new challenges.</p>
 
-- 🌱 I’m currently learning: **Java**
+- 🌱 I’m currently learning: **NodeJS**
 
 - 📫 How to reach me: **dmendes.rocha@gmail.com**
 
